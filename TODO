@@ -1,0 +1,8 @@
+TODO
+- Repeat background sound
+- Character sprites not being able to cross borders
+- Game ends after all coins have been collected and display winner
+- Restart button after game ends
+- Characters bump back when they hit each other
+- Characters lose coins when they bump
+- Multiple levels with decreasing number of coins and increasing speed and points for each coin
